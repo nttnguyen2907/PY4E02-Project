@@ -1,4 +1,4 @@
-
+                                                                  HƯỚNG DẪN CÀI ĐẶT VÀ CHẠY PROJECT
 Bước 1: tạo môi trường ảo 
 python -m venv venv
 
